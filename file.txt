@@ -1,1 +1,6 @@
 hi   i am aws devops learner
+welcome to git
+welcome to maven
+welcome to tomcat
+welcome sonar
+welcome to junkins
